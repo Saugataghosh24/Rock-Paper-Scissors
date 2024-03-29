@@ -4,7 +4,7 @@ This is a simple Rock-Paper-Scissors game built using HTML, CSS, and JavaScript.
 
 ## Preview
 
-![Game Screenshot](![ss](https://github.com/Saugataghosh24/Rock-Paper-Scissors/assets/135034312/a67ae6e4-7144-4f6e-903f-b269256ad6a8))
+![ss](https://github.com/Saugataghosh24/Rock-Paper-Scissors/assets/135034312/a67ae6e4-7144-4f6e-903f-b269256ad6a8)
 
 ## Try It Out
 
