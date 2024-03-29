@@ -8,7 +8,7 @@ This is a simple Rock-Paper-Scissors game built using HTML, CSS, and JavaScript.
 
 ## Try It Out
 
-You can play the game [here](https://example.com).
+You can play the game [here]( https://saugataghosh24.github.io/Rock-Paper-Scissors/).
 
 ## How to Play
 
